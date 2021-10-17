@@ -1,6 +1,6 @@
 # HashByte
-- Team Name: HashByte
-- Team Members: Tanmay Shishodia, Vedant Saxena, Yash Verma
+- Team Name: Grit
+- Team Members: Kumar Shubham, Gaurav Jain
 - Project Title: HashByte
 
 
